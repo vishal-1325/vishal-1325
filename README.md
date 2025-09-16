@@ -3,9 +3,16 @@
   <img src="https://avatars.githubusercontent.com/vishal-1325" alt="Vishal" width="180" style="border-radius:50%;"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vishal+👋;Engineering+Student+%7C+Future+Full-Stack+Dev;Fitness+Lover+%7C+Code+Addict+%7C+Learner" alt="Typing SVG" />
-</h1>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Vishal</h1>
+<h3 align="center">🚀 Engineering Student | 💪 Fitness Enthusiast | 💻 Future Full-Stack Developer</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/vishal-1325">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Code.+Lift.+Repeat.;Engineering+Student+%7C+Full-Stack+Learner;Passionate+about+AI+%26+Web+Development;Always+Learning+New+Skills" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -50,11 +57,7 @@
 
 ---
 
-<!-- Achievements -->
-## 🏆 Achievements & Highlights
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishal-1325&theme=darkhub&no-frame=true&margin-w=15" />
-</p>
+
 
 ---
 
