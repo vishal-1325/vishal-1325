@@ -1,83 +1,83 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">🚀 Engineering Student | 💪 Fitness Enthusiast | 💻 Future Full-Stack Developer</h3>
-
-<!-- Typing Animation -->
+<!-- Header Section -->
 <p align="center">
-  <a href="https://github.com/vishal-1325">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Code.+Lift.+Repeat.;Engineering+Student+%7C+Full-Stack+Learner;Passionate+about+AI+%26+Web+Development;Always+Learning+New+Skills" alt="Typing SVG" />
-  </a>
+  <img src="https://avatars.githubusercontent.com/vishal-1325" alt="Vishal" width="180" style="border-radius:50%;"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vishal+👋;Engineering+Student+%7C+Future+Full-Stack+Dev;Fitness+Lover+%7C+Code+Addict+%7C+Learner" alt="Typing SVG" />
+</h1>
+
+---
+
+<!-- Quick Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-21-blue" />
+  <img src="https://img.shields.io/badge/Code-Python%20%7C%20JS%20%7C%20Flask-green" />
+  <img src="https://komarev.com/ghpvc/?username=vishal-1325&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/vishal-1325?label=Followers&style=social" alt="GitHub Badge"/>
 </p>
 
 ---
 
 <!-- About Section -->
-## 🙋‍♂️ About Me  
-- 🌱 I’m currently learning **Full-Stack Development (Flask + React + SQL)**  
-- 💡 Interested in **AI, Web Apps, and Problem Solving**  
-- 🏋️‍♂️ Fitness Lover: Discipline, Consistency & Growth  
-- ⚡ Fun fact: My daily fuel is my **Energy Bowl** 🥗  
+## 🚀 About Me
+- 🎓 Engineering student passionate about **tech + discipline**  
+- 💻 Learning **Full-Stack Development (Flask + React + SQL)**  
+- 🏋️‍♂️ Fitness enthusiast: **Consistency = Results**  
+- 🥗 Favorite fuel: **Energy Bowl**  
+- ⚡ Always curious, always improving  
 
 ---
 
-<!-- Skills -->
-## 🛠️ Tech Stack  
+<!-- Skills Section -->
+## 💻 Tech Stack
 <p align="center">
-  <!-- Programming -->
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,flask,mysql,git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
 
-<!-- GitHub Stats -->
+<!-- Stats Section -->
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-1325&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-1325&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-1325&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-1325&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-1325&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-1325&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<!-- Trophies -->
-## 🏆 Achievements  
+<!-- Achievements -->
+## 🏆 Achievements & Highlights
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishal-1325&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vishal-1325&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-<!-- Contribution Graph -->
-## 🌐 Contribution Graph  
+<!-- Cool Quote -->
+## ✨ Quote That Inspires Me
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-1325&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
 ---
 
-<!-- Fun Section -->
-## 🎧 Vibing While Coding  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
-</p>
-
----
-
-<!-- Snake Animation -->
-## 🐍 Watch My Contributions Eat Snake!  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vishal-1325/vishal-1325/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+<!-- Fun Touch -->
+## 🌟 Fun Facts  
+- 🔥 Love pushing limits in the gym & in coding  
+- 📚 Learning 3 hrs/day → Full-Stack Pro in progress  
+- 🧠 Motto: *"Discipline beats motivation"*  
 
 ---
 
 <!-- Footer -->
-<h3 align="center">💬 Let's Connect!</h3>
+<h3 align="center">🌐 Let's Connect</h3>
 <p align="center">
-  <a href="https://github.com/vishal-1325"><img src="https://img.shields.io/github/followers/vishal-1325?label=Follow&style=social"></a>
+  <a href="https://github.com/vishal-1325"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
   <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a>
 </p>
