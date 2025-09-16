@@ -55,17 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-1325&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-
-
----
-
-<!-- Cool Quote -->
-## ✨ Quote That Inspires Me
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
 
 ---
 
