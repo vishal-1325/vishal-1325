@@ -1,16 +1,11 @@
-<!-- Header Section -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/vishal-1325" alt="Vishal" width="180" style="border-radius:50%;"/>
-</p>
-
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">🚀 Engineering Student | 💪 Fitness Enthusiast | 💻 Future Full-Stack Developer</h3>
+<h1 align="center" style="color:#00F5FF;">🌌 Hi 👋, I'm Vishal</h1>
+<h3 align="center" style="color:#FFD700;">🚀 Engineering Student | 💪 Fitness Enthusiast | 💻 Future Full-Stack Developer</h3>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/vishal-1325">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Code.+Lift.+Repeat.;Engineering+Student+%7C+Full-Stack+Learner;Passionate+about+AI+%26+Web+Development;Always+Learning+New+Skills" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Code.+Lift.+Repeat.;Engineering+Student+%7C+Full-Stack+Learner;Passionate+about+AI+%26+Web+Development;Always+Learning+New+Skills" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,10 +13,10 @@
 
 <!-- Quick Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-21-blue" />
-  <img src="https://img.shields.io/badge/Code-Python%20%7C%20JS%20%7C%20Flask-green" />
-  <img src="https://komarev.com/ghpvc/?username=vishal-1325&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/vishal-1325?label=Followers&style=social" alt="GitHub Badge"/>
+  <img src="https://img.shields.io/badge/Age-21-0A0A0A?style=for-the-badge&logoColor=00F5FF&color=0A0A0A" />
+  <img src="https://img.shields.io/badge/Code-Python%20%7C%20JS%20%7C%20Flask-0A0A0A?style=for-the-badge&logo=python&logoColor=00F5FF&color=0A0A0A" />
+  <img src="https://komarev.com/ghpvc/?username=vishal-1325&label=Profile%20Views&color=00F5FF&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/vishal-1325?label=Followers&style=social&color=0A0A0A" alt="GitHub Badge"/>
 </p>
 
 ---
@@ -47,14 +42,13 @@
 <!-- Stats Section -->
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-1325&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-1325&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-1325&show_icons=true&theme=vision-friendly-dark" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-1325&theme=vision-friendly-dark" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-1325&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-1325&layout=compact&theme=vision-friendly-dark" />
 </p>
-
 
 ---
 
@@ -69,7 +63,7 @@
 <!-- Footer -->
 <h3 align="center">🌐 Let's Connect</h3>
 <p align="center">
-  <a href="https://github.com/vishal-1325"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/vishal-1325"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00A0DC"></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF0000"></a>
 </p>
